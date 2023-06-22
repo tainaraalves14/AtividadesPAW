@@ -1,0 +1,21 @@
+nav {
+    background-color: #0077ff;
+    color: white;
+
+  }
+  
+  nav a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 28px;
+    border-bottom: 1px solid white; /* Adiciona uma borda branca na parte inferior do link */
+    transition: all 0.3s ease-in-out;
+  }
+  
+  nav a:hover {
+    background-color:  #0077ff;
+    color: white; /* Muda a cor do texto para branco quando o link é destacado */
+  }
